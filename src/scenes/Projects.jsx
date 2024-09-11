@@ -114,7 +114,7 @@ const Projects = () => {
           {/* ROW 3 */}
           <Project
             title="Project 7"
-            subtitle="Linux Setup (Arch Linux + Hyperland)"
+            subtitle="Linux Setup (Arch Linux + Hyprland)"
             link="https://youtu.be/XOV2H-89Rd0?si=osyR8qW0cUo7LtbT/"
           />
           <Project
