@@ -25,10 +25,9 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            A Grad with Web development and Data Structures and Algorithms
-            knowledge, Machine Learning, coupled with a passion for coding,
-            possessing a wide range of skills that are highly valuable in the
-            tech industry.
+            I have a good foundation in programming languages such as Html, Css, JS, and react.js.
+            I am also fimilar with language as phython, Java,Tailwind for styling and node.js. along with MongoDb for creating database.
+            I am currently leaing about UX/UI design.
           </p>
         </motion.div>
         <div className="mt-16 md:mt-0">
@@ -79,7 +78,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             <span className="font-playfair font-semibold text-xl mt-3">
-              Python Development Intern | Business Development Intern
+              Java, Python, C++, JavaScript, HTML/CSS, SQL
             </span>
             {/* <br></br>Designed several ideas for company’s logo and poster.
                         <br></br>Researched and analyzed Car sales data and maintained record. */}
@@ -109,7 +108,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             <span className="font-playfair font-semibold text-xl mt-3">
-              HTML, ReactJS, Tailwind CSS, Framer-Motion
+              HTML, ReactJS, Tailwind CSS
             </span>
             {/* <br></br>Proficiency in web development can open up a wide range of career opportunities. */}
           </p>
@@ -131,17 +130,15 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Competitive Coding
+                Love Coding
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
             <span className="font-playfair font-semibold text-xl mt-3">
-              C, C++, Python, Java
+              React, JS, Html, Python, Java
             </span>
-            {/* <br />Competitive coding improves problem-solving skills, increases coding speed, 
-                    exposes individuals to new ideas and techniques, and can create career opportunities. */}
           </p>
         </motion.div>
       </div>

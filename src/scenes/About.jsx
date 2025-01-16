@@ -25,11 +25,10 @@ const About = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Hey there! I'm a computer science graduate.
+          Hey there! I'm a self taught web developer with a passion for creating.
           <br />
-          I'm super into Data Structures & Algorithms and Web Development, and
-          I've done a bunch of cool projects in those areas.
-          <br />I love the challenge of solving tricky problems with algorithms
+          I'm into Web and mobile app development, and I'm always looking for new opportunity
+          <br />I love to try new things and learn new skills.
           and making sweet websites that are both robust and dynamic.
           <br /> I'm always looking to improve my skills and learn new
           technologies and approaches to problem-solving.

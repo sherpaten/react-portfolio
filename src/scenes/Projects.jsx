@@ -62,9 +62,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Various Projects from small scale to big scale including technologies
-          like HTML, CSS, JavaScript, TailWindCSS, ReactJS, Framer-Motion, C,
-          C++, GitHub etc.
+          I have done some group and individual projects in my free time. You can check them out below.
         </p>
       </motion.div>
 
@@ -80,52 +78,8 @@ const Projects = () => {
           {/* ROW 1 */}
           <Project
             title="Project 1"
-            subtitle="College's Technical Club Website Created Using HTML, CSS, JavaScript etc"
-            link="https://amanhex.github.io/CestaWebsite/"
-          />
-          <Project
-            title="Project 2"
-            subtitle="Portfolio Created Using HTML, CSS, ReactJS, TailWind CSS, Framer-Motion"
-            link="https://amanhex.github.io/react-portfolio/"
-          />
-          <Project
-            title="Project 3"
-            subtitle="Car Parking Management System developed using C++"
-            link="https://github.com/amanhex/Car-Parking-Management-System/"
-          />
-
-          {/* ROW 2 */}
-          <Project
-            title="Project 4"
-            subtitle="GitQuest Created Using ReactJS"
-            link="https://gitquest.onrender.com/"
-          />
-          <Project
-            title="Project 5"
-            subtitle="Flask-File-Upload App Developed Using Flask"
-            link="https://file-upload-app-59ou.onrender.com/"
-          />
-          <Project
-            title="Project 6"
-            subtitle="Chat-Assist, A ChatBot Developed Using Flask"
-            link="https://chat-assist-pant.onrender.com/"
-          />
-
-          {/* ROW 3 */}
-          <Project
-            title="Project 7"
-            subtitle="Linux Setup (Arch Linux + Hyprland)"
-            link="https://youtu.be/XOV2H-89Rd0?si=osyR8qW0cUo7LtbT/"
-          />
-          <Project
-            title="Project 8"
-            subtitle="Calculator App created with ReactJS"
-            link="https://amanhex.github.io/Calculator/"
-          />
-          <Project
-            title="Project 9"
-            subtitle="To Do App created with ReactJS"
-            link="https://amanhex.github.io/ToDo-App/"
+            subtitle="football-task"
+            link="https://football-task.vercel.app/"
           />
         </motion.div>
       </div>
