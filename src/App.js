@@ -54,7 +54,7 @@ function App() {
         <Contact />
       </div>
       <Footer />
-      test
+    
     </div>
   );
 };
