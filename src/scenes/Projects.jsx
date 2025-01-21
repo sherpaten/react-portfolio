@@ -81,6 +81,14 @@ const Projects = () => {
             subtitle="football-task"
             link="https://football-task.vercel.app/"
           />
+
+          {/* Row 2 */}
+          <project
+          title="Project 2"
+          subtitle="e-lern"
+          link="https://e-lern.vercel.app/"
+          />
+          
         </motion.div>
       </div>
     </section>
