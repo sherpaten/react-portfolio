@@ -34,6 +34,7 @@ const Project = ({ title, subtitle, link }) => {
         </p>
       </div>
       <img src={require(`../assets/${projectTitle}.jpeg`)} alt={projectTitle} />
+      
     </motion.div>
   );
 };
@@ -83,12 +84,12 @@ const Projects = () => {
           />
 
           {/* Row 2 */}
-          <project
+          <Project
           title="Project 2"
           subtitle="e-lern"
           link="https://e-lern.vercel.app/"
           />
-          
+
         </motion.div>
       </div>
     </section>
