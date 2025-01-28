@@ -25,14 +25,13 @@ const About = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Hey there! I'm a self taught web developer with a passion for creating.
+        I am a self-taught web developer with a strong passion for creating engaging digital experiences.
           <br />
-          I'm into Web and mobile app development, and I'm always looking for new opportunity
-          <br />I love to try new things and learn new skills.
-          and making sweet websites that are both robust and dynamic.
-          <br /> I'm always looking to improve my skills and learn new
-          technologies and approaches to problem-solving.
-        </p>
+          My expertise lies in web and mobile app development, with a focus on building robust and dynamic websites.
+          <br />I thrive on exploring new technologies and approaches to problem-solving,
+           always aiming to enhance my skills and deliver innovative solutions.
+          <br />  I actively seek opportunities to take on challenges that allow me to grow,
+          </p>
       </motion.div>
     </section>
   );
