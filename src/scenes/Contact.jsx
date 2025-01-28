@@ -28,6 +28,14 @@ const Contact = () => {
                     Hey There! 
                     <br />I'm not really big on posting or checking my Socials.
                     <br />But, Let's Connect on my Socials anyways!
+                    <a className="hover:opacity-50 transition duration-500" href="https://www.linkedin.com/in/tenzing-sherpa-6593532b7/"
+                target="_blank"
+                rel="noreferrer"
+            >
+                <img src={require('../assets/linkedin.png')} alt='linkedin-link' />
+            </a>
+     
+
                 </p>
             </motion.div>
         </section>
