@@ -27,7 +27,7 @@ const MySkills = () => {
           <p className="mt-10 mb-7">
             I have a good foundation in programming languages such as Html, Css, JS, and react.js.
             I am also fimilar with language as phython, Java,Tailwind for styling and node.js. along with MongoDb for creating database.
-            I am currently leaing about UX/UI design.
+            I am currently learning about UX/UI design.
           </p>
         </motion.div>
         <div className="mt-16 md:mt-0">
