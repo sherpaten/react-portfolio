@@ -25,8 +25,8 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            I have a good foundation in programming languages such as Html, Css, JS, and react.js.
-            I am also fimilar with language as phython, Java,Tailwind for styling and node.js. along with MongoDb for creating database.
+            I have a good foundation in different programming languages such as Html, Css, JS, and react.js.
+            I am also fimilar with language as phython(just basic), Java,Tailwind for styling and node.js. along with MongoDb for creating database.
             I am currently learning about UX/UI design.
           </p>
         </motion.div>
@@ -78,7 +78,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             <span className="font-playfair font-semibold text-xl mt-3">
-              Java, Python, C++, JavaScript, HTML/CSS, SQL
+              Java, Python, C++, JavaScript, HTML/CSS, SQL, Figma & Wordpress.
             </span>
             {/* <br></br>Designed several ideas for company’s logo and poster.
                         <br></br>Researched and analyzed Car sales data and maintained record. */}
@@ -108,7 +108,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             <span className="font-playfair font-semibold text-xl mt-3">
-              HTML, ReactJS, Tailwind CSS
+              HTML, ReactJS, Tailwind CSS , JavaScript
             </span>
             {/* <br></br>Proficiency in web development can open up a wide range of career opportunities. */}
           </p>
